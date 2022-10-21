@@ -14,8 +14,7 @@
 ---------------------------------------------------*/
 
 [glenplayer02]{
-    position:fixed;
-    display:flex;
+   display:flex;
     align-items:center;
     visibility:hidden;
     z-index:69;
